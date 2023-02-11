@@ -1,2 +1,2 @@
 #!/bin/bash
-unmask 111
+chmod -R +x
